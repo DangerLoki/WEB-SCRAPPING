@@ -2,15 +2,15 @@
 
 body{ 
 
-    /*TÍTULO PRINCIPAL*/
+/*TÍTULO PRINCIPAL*/
     font-family: 'Montserrat', sans-serif;
 
-    /*FUNDO FEIO DA PORRA*/
+/*FUNDO FEIO DA PORRA*/
     background: rgb(2,0,36);
 
     background: linear-gradient(90deg, rgb(255, 255, 255) 11%, rgba(2,2,215,1) 48%, rgba(61,0,113,1) 100%);
 }
-    /*CARACTERÍSTICAS DO TÍTULO*/
+/*CARACTERÍSTICAS DO TÍTULO*/
 #tituloDaPagina{
 
     font-weight: 900;
