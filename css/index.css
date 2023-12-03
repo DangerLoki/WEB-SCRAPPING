@@ -22,3 +22,10 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+input::placeholder {
+    color: red;
+}
+input {
+    color: black;
+}

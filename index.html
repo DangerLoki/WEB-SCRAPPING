@@ -18,9 +18,16 @@
     <h1 id="tituloDaPagina">Pesquisa Supreme</h1>
 
     <div id="barraDePesquisarDiv">
-        <input type="text" id="caixaDeTextoPesquisar">
 
-        <button id="botaoPesquisar"></button>
+        <input type="text" id="caixaDeTextoPesquisar" placeholder="Pesquisar" 
+        onfocus="this.placeholder = ''" 
+        onblur="this.placeholder = 'Pesquisar'">
+
+        
+
+        <button id="botaoPesquisar">Pesquisar</button>
     </div>
+
+    <script src="Js/index.js"></script>
 </body>
 </html>
